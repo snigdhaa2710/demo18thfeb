@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-18T15:26:08 IST" name="Default suite" finished-at="2022-02-18T15:26:20 IST" duration-ms="12705">
+    <groups>
+    </groups>
+    <test started-at="2022-02-18T15:26:08 IST" name="Default test" finished-at="2022-02-18T15:26:20 IST" duration-ms="12705">
+      <class name="Webdriver.Hellogoogle">
+        <test-method signature="TestBrowser()[pri:0, instance:Webdriver.Hellogoogle@1da2cb77]" started-at="2022-02-18T15:26:08 IST" name="TestBrowser" finished-at="2022-02-18T15:26:20 IST" duration-ms="12652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBrowser -->
+      </class> <!-- Webdriver.Hellogoogle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
